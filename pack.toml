@@ -1,0 +1,10 @@
+name = "Kakusei-Server"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e09131f196e5736a931962b426c04760b31ffeb47abe8cc787bc9fd1505f3254"
+
+[versions]
+forge = "14.23.5.2854"
+minecraft = "1.12.2"
